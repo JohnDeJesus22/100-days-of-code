@@ -1,30 +1,14 @@
+
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## I will be using this repo as a journal log. The code done during this challenge will reside in other repos made for those projects. Links will be provided here.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 0: 3/14/18 Pi Day
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Forked #100DaysofCode challenge repo (first fork)
+ and started Personality Text Classifier using a Myers Briggs data set provide by Mahek Hooda on Kaggle 
+ 
+**Thoughts:** The data set came with two columns: One for personality type and one with fifty text elements separated by "|||". I wanted to separate them so that I had more entries to work with. The data set has 8675 rows. Had trouble separating at first, then found a function made by a Kaggle user that worked but used BeautifulSoup and re. I then tested so see if the re input with my original separater code was enough...turned out it was :). Yeah for experimenting
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Data Wrangling Script](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PTCDataWrangling.py)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
