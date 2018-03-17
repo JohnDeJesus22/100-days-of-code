@@ -21,3 +21,12 @@
 **Thoughts:** Made use of the os library to change directory for the first time. Used [missingno](https://github.com/ResidentMario/missingno) bar and dendrogram to explore null values and use pandas to remove them (done before this project). Interesting to see that introverts may be proving more online text content then extroverts. Will of course explore further. EDA to be continued.
 
 **Link to work:** [Exploratory Data Analysis Notebook](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PTCEDA.ipynb)
+
+
+### Day 3: 3/16/18 
+
+**Today's Progress**: Refined code to pull #makeovermonday tweets
+ 
+**Thoughts:** Code was converted into functions. Need to work on keeping the irrevelant tweets that can pulled. Will create a data set of these tweets then work on the suggested machine learning model made by my teammates.
+
+**Link to work:** [#MakeoverMonday Refined Tweet Finder Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/RefinedMOMTweetRetrieverCode.py)
