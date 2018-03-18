@@ -30,3 +30,11 @@
 **Thoughts:** Code was converted into functions. Need to work on keeping the irrevelant tweets that can pulled. Will create a data set of these tweets then work on the suggested machine learning model made by my teammates.
 
 **Link to work:** [#MakeoverMonday Refined Tweet Finder Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/RefinedMOMTweetRetrieverCode.py)
+
+### Day 4: 3/17/18 
+
+**Today's Progress**: Continued EDA for Personality Text Classifer.
+ 
+**Thoughts:** Updated requirements doc. Continued EDA to discover that 3/4 of the entries are introverts doing online writing! Explored the text_length of the content written and will investigate the word structure next.
+
+**Link to work:** [Updated Exploratory Data Analysis Notebook](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PTCEDA.ipynb)
