@@ -46,3 +46,11 @@
 **Thoughts:** Updated requirements doc. Continued EDA with ECDF on text length and word counts and first Q-Q Plot on word count. Had to subset both columns due to large outliers. These will need to be top-coded for ML classifiers.
 
 **Link to work:** [Updated Exploratory Data Analysis Notebook](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PTCEDA.ipynb)
+
+### Day 6: 3/19/18 
+
+**Today's Progress**: Started prepping data for classifier
+ 
+**Thoughts:** Began prepping posts for classifer. Will start with a bag of words model fitlering out stopwords. Will have to look into dask or pyspark to run code due to file size.
+
+**Link to work:** [Personality Classifier Beginning of Data Prep](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PersonalityClassifier.py)
