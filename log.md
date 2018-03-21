@@ -54,3 +54,11 @@
 **Thoughts:** Began prepping posts for classifer. Will start with a bag of words model fitlering out stopwords. Will have to look into dask or pyspark to run code due to file size.
 
 **Link to work:** [Personality Classifier Beginning of Data Prep](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PersonalityClassifier.py)
+
+### Day 7: 3/20/18 
+
+**Today's Progress**: Experimenting with NLP on Tweets
+ 
+**Thoughts:** Experimented a bit using code from last update on #makeovermonday tweets with nltk Tweettokenizer. Not all the lines of code are necessary due to the stemming not working well.
+
+**Link to work:** [NLP Tweettokenizer experimenting](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/NLPwithMOMTweets.py)
