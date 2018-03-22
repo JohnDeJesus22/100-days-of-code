@@ -62,3 +62,11 @@
 **Thoughts:** Experimented a bit using code from last update on #makeovermonday tweets with nltk Tweettokenizer. Not all the lines of code are necessary due to the stemming not working well.
 
 **Link to work:** [NLP Tweettokenizer experimenting](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/NLPwithMOMTweets.py)
+
+### Day 8: 3/21/18 
+
+**Today's Progress**: Start Script for Bot
+ 
+**Thoughts:** Decided to create a twitter bot with Tweepy to automate data mining of Makeovermonday tweets. Did some initial testing.
+
+**Link to work:** [Initial TwitterBot Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting%20-%20Copy.py)
