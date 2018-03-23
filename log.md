@@ -70,3 +70,11 @@
 **Thoughts:** Decided to create a twitter bot with Tweepy to automate data mining of Makeovermonday tweets. Did some initial testing.
 
 **Link to work:** [Initial TwitterBot Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting%20-%20Copy.py)
+
+### Day 9: 3/22/18 
+
+**Today's Progress**: Setting up pull for false tweets
+ 
+**Thoughts:** setting up pull for false tweets. Imported refined tweet pull functions and credentials into bot script.
+
+**Link to work:** [Initial TwitterBot Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting%20-%20Copy.py)
