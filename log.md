@@ -78,3 +78,12 @@
 **Thoughts:** setting up pull for false tweets. Imported refined tweet pull functions and credentials into bot script.
 
 **Link to work:** [Initial TwitterBot Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting%20-%20Copy.py)
+
+### Day 10: 3/23/18 
+
+**Today's Progress**: Pulled FalseTweets and other data. Refined and Tested Bot Script
+ 
+**Thoughts:** Pulled the FalseTweets for this week into a csv along with the original data pull. Refined bot code so I could do a hard coded filtering and manual retweet of remaining tweets. Not 100% perfect yet.
+
+**Link to work:** [Refined Bot Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting.py)
+[FalseTweets CSV](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/falseTweets.csv)
