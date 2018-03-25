@@ -94,12 +94,6 @@
  
 **Thoughts:** Began EDA of participants. I feel I may have to investigate the data I collected since there are still extra entries that don't belong to participants. Instead they belong to advertisers of the project. 
 
-**Link to work:** [#MakeoverMondayViz EDA](### Day 10: 3/23/18 
+**Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
 
-**Today's Progress**: Pulled FalseTweets and other data. Refined and Tested Bot Script
- 
-**Thoughts:** Pulled the FalseTweets for this week into a csv along with the original data pull. Refined bot code so I could do a hard coded filtering and manual retweet of remaining tweets. Not 100% perfect yet.
 
-**Link to work:** [Refined Bot Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting.py)
-
-[FalseTweets CSV](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/falseTweets.csv)
