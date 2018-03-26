@@ -96,4 +96,10 @@
 
 **Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
 
+### Day 12: 3/25/18 
 
+**Today's Progress**: Continued EDA to filter out more false tweets
+ 
+**Thoughts:** Explored different routes to clean up data. Explored totals for number of posts a participant made. Set up TweetTokenizer thinking it would help filter tweets based on the text. Then remembered a phrase participants had to use to signal their entry for the week and built on that using Rodrigo Calloni's posts. 
+
+**Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
