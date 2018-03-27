@@ -103,3 +103,11 @@
 **Thoughts:** Explored different routes to clean up data. Explored totals for number of posts a participant made. Set up TweetTokenizer thinking it would help filter tweets based on the text. Then remembered a phrase participants had to use to signal their entry for the week and built on that using Rodrigo Calloni's posts. 
 
 **Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
+
+### Day 13: 3/26/18 
+
+**Today's Progress**: Filtered out more tweets
+ 
+**Thoughts:** Getting a system to filter out false tweets by using a dictionary matching tweeters to the number of posts. Making progress.
+
+**Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
