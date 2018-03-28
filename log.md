@@ -111,3 +111,11 @@
 **Thoughts:** Getting a system to filter out false tweets by using a dictionary matching tweeters to the number of posts. Making progress.
 
 **Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
+
+### Day 14: 3/27/18 
+
+**Today's Progress**: Wrote function to filter and update data and falsetweets csvs
+ 
+**Thoughts:** function sped up cleaning. Still need to explore the data to confirm removal of all fake participants. Also need to figure out how to remove tweets that do not have a viz pic.
+
+**Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
