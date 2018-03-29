@@ -119,3 +119,11 @@
 **Thoughts:** function sped up cleaning. Still need to explore the data to confirm removal of all fake participants. Also need to figure out how to remove tweets that do not have a viz pic.
 
 **Link to work:** [#MakeoverMondayViz EDA](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/%23MakeoverMonday_EDA.ipynb)
+
+### Day 15: 3/28/18 
+
+**Today's Progress**: Refined Cleaning Code and improved data sets
+ 
+**Thoughts:** Condensed data cleaning code. Jupyter notebook was getting overwhelming and clumbersome to use since there was too much there. Generalized the function from yesterday so column can be parameter. Dropped duplicates based on url. Had to unfortunately hardcode but it allowed me to see patterns in the false tweets text.
+
+**Link to work:** [MOM_Condensed_Data_Cleaning_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOM_Data_Cleaning.py)
