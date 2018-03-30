@@ -127,3 +127,11 @@
 **Thoughts:** Condensed data cleaning code. Jupyter notebook was getting overwhelming and clumbersome to use since there was too much there. Generalized the function from yesterday so column can be parameter. Dropped duplicates based on url. Had to unfortunately hardcode but it allowed me to see patterns in the false tweets text.
 
 **Link to work:** [MOM_Condensed_Data_Cleaning_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOM_Data_Cleaning.py)
+
+### Day 16: 3/29/18 
+
+**Today's Progress**: Continued Cleaning
+ 
+**Thoughts:** Continued cleaning data set. Tried to find a subset of the strings I could use to filter more tweets at once but so far all efforts caused necessary tweets to be pulled into falsetweets csv. Will keep working at it.
+
+**Link to work:** [MOM_Condensed_Data_Cleaning_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOM_Data_Cleaning.py)
