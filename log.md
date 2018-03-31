@@ -135,3 +135,11 @@
 **Thoughts:** Continued cleaning data set. Tried to find a subset of the strings I could use to filter more tweets at once but so far all efforts caused necessary tweets to be pulled into falsetweets csv. Will keep working at it.
 
 **Link to work:** [MOM_Condensed_Data_Cleaning_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOM_Data_Cleaning.py)
+
+### Day 17: 3/30/18 
+
+**Today's Progress**: Creating ML model script and built test data
+ 
+**Thoughts:** Started ML model script by building training set. Will hopefully clean data tomorrow to apply classifiers
+
+**Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
