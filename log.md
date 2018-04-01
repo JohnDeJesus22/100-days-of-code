@@ -143,3 +143,11 @@
 **Thoughts:** Started ML model script by building training set. Will hopefully clean data tomorrow to apply classifiers
 
 **Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
+
+### Day 18: 3/31/18 
+
+**Today's Progress**: Started building tweet classifier
+ 
+**Thoughts:** Great Day Today! I applied regex, tweettokenizer and mosesdetokenizer to clean tweet text. Then I created a bag of words and naive bayes model from what I learned from my machine learning udemy course. 
+
+**Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
