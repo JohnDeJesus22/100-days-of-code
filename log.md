@@ -151,3 +151,11 @@
 **Thoughts:** Great Day Today! I applied regex, tweettokenizer and mosesdetokenizer to clean tweet text. Then I created a bag of words and naive bayes model from what I learned from my machine learning udemy course. 
 
 **Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
+
+### Day 19: 4/1/18 Easter and April Fool's Day 
+
+**Today's Progress**: Testing and Assessing NB classifiers
+ 
+**Thoughts:** Not much done since it is a holiday. Used another version of NB classifier made more for text and applied k-fold cross-validation to both versions and resulted in about 50% and a bit of variance. Will need to investigate using other classifiers.
+
+**Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
