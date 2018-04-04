@@ -168,3 +168,12 @@
 **Thoughts:** Experimented with Tfidf and Hashing Vectorizer. No improvements using those with the two classifiers I used yesterday. Then tried SVM and Kernel SVM in combination with all three vectorizers. Kernel SVM with Tfidf proved about a 5% improvement but still dealing with a lot of false negatives.
 
 **Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
+
+
+### Day 21: 4/3/18
+
+**Today's Progress**: Attempted other Relevant Classifiers
+ 
+**Thoughts:** Used other relevant classifiers to improve yesterday's accuracy but no success. May have to consider pulling submissions form data.world. Perhaps that will be optimal...
+
+**Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
