@@ -177,3 +177,11 @@
 **Thoughts:** Used other relevant classifiers to improve yesterday's accuracy but no success. May have to consider pulling submissions form data.world. Perhaps that will be optimal...
 
 **Link to work:** [MOM ML Model Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMmachinelearningTest.py)
+
+### Day 22: 4/4/18
+
+**Today's Progress**: Accessed page behind data.world login with Requests
+ 
+**Thoughts:** Followed a tutorial from PyBites to access the submission page behind a login page with Requests. May need to improve understanding of HTML and/or turn to Scrapy to get desired data. 
+
+**Link to work:** [Requests Login Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/RequestsLogin.py)
