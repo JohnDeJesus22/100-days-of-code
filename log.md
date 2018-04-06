@@ -185,3 +185,11 @@
 **Thoughts:** Followed a tutorial from PyBites to access the submission page behind a login page with Requests. May need to improve understanding of HTML and/or turn to Scrapy to get desired data. 
 
 **Link to work:** [Requests Login Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/RequestsLogin.py)
+
+### Day 23: 4/5/18
+
+**Today's Progress**: Updated Repos and Did Selenium and Scrapy Tutorials
+ 
+**Thoughts:** Updated Repos, finished tutorial series on scrapy, and dove into some intro tutorials for Selenium per the advice of @pybites. I believe I found the html I need to access for my scraping.
+
+**Link to work:** None
