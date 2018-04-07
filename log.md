@@ -193,3 +193,11 @@
 **Thoughts:** Updated Repos, finished tutorial series on scrapy, and dove into some intro tutorials for Selenium per the advice of @pybites. I believe I found the html I need to access for my scraping.
 
 **Link to work:** None
+
+### Day 24: 4/6/18
+
+**Today's Progress**: Pulled weekly data and updated bot script
+ 
+**Thoughts:** Pulled Weekly data and filtered manually...Retweeted mostly all correct tweets based on the name. Need to get this ml model up and running.
+
+**Link to work:** [TwitterBot Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting.py)
