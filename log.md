@@ -201,3 +201,11 @@
 **Thoughts:** Pulled Weekly data and filtered manually...Retweeted mostly all correct tweets based on the name. Need to get this ml model up and running.
 
 **Link to work:** [TwitterBot Test Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MOMTweetTesting.py)
+
+### Day 25: 4/7/18
+
+**Today's Progress**: Cleaned data and studied more on Selenium and Xpath
+ 
+**Thoughts:** Cleaned some of the data in my project and watched more tutorials on Selenium and Xpath
+
+**Link to work:** None
