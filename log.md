@@ -209,3 +209,11 @@
 **Thoughts:** Cleaned some of the data in my project and watched more tutorials on Selenium and Xpath
 
 **Link to work:** None
+
+### Day 26: 4/8/18
+
+**Today's Progress**: Experimented with Selenium
+ 
+**Thoughts:** Experimented with Selenium by testing code from the docs, a couple of my own examples, and took note of necessary html for my project.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
