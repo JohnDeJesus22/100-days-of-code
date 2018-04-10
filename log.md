@@ -217,3 +217,11 @@
 **Thoughts:** Experimented with Selenium by testing code from the docs, a couple of my own examples, and took note of necessary html for my project.
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 27: 4/9/18
+
+**Today's Progress**: Logged in and out with selenium
+ 
+**Thoughts:** Able to log in and out of data.world with Selenium and xpaths. So cool!
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
