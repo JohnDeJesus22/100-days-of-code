@@ -225,3 +225,11 @@
 **Thoughts:** Able to log in and out of data.world with Selenium and xpaths. So cool!
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 28: 4/10/18
+
+**Today's Progress**: Web scraped with Selenium!
+ 
+**Thoughts:** Was able to access desired page after logging in to data.world. Extracted names and viz pics with some slicing.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
