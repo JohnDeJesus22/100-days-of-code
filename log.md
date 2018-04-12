@@ -233,3 +233,12 @@
 **Thoughts:** Was able to access desired page after logging in to data.world. Extracted names and viz pics with some slicing.
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+
+### Day 29: 4/11/18
+
+**Today's Progress**: Scraping links and posts
+ 
+**Thoughts:** Continuing the webscraping on the website I was able to extract posts and viz links based on text label. Need to access posts to generalize extraction.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
