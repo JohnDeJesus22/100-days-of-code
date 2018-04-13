@@ -242,3 +242,11 @@
 **Thoughts:** Continuing the webscraping on the website I was able to extract posts and viz links based on text label. Need to access posts to generalize extraction.
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 30: 4/12/18
+
+**Today's Progress**: Refining extraction script
+ 
+**Thoughts:** Refining extraction script to find the posts and scrap select info for each post instead of the information separating. Prove to not be as straight forward as expected but fun!
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
