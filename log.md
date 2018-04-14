@@ -250,3 +250,11 @@
 **Thoughts:** Refining extraction script to find the posts and scrap select info for each post instead of the information separating. Prove to not be as straight forward as expected but fun!
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 31: 4/13/18
+
+**Today's Progress**: Pulled data and reviewed some more xpath and selenium docs
+ 
+**Thoughts:** Pulled twitter data, reviewed more on xpath and html.
+
+**Link to work:** None
