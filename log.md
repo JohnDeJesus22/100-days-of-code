@@ -258,3 +258,12 @@
 **Thoughts:** Pulled twitter data, reviewed more on xpath and html.
 
 **Link to work:** None
+
+### Day 32: 4/14/18
+
+**Today's Progress**: Successful Scraping
+ 
+**Thoughts:** Successfully scraped #makeovermonday discussion viz entry thread!! Now I need to now work on generalizing for all 16 links and clean the data.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+[First Thread Scraped(Raw)](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/datadotworld_wk13_vizzes.csv)
