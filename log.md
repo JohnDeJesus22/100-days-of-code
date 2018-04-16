@@ -267,3 +267,11 @@
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
 [First Thread Scraped(Raw)](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/datadotworld_wk13_vizzes.csv)
+
+### Day 33: 4/15/18
+
+**Today's Progress**: Continued modifying scraping script
+ 
+**Thoughts:** Improved link pulls from thread posts, but still need to improve it since it fails with inclusion of name tags. Also indirectly found a means to extract real names of participants :)
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
