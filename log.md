@@ -275,3 +275,11 @@
 **Thoughts:** Improved link pulls from thread posts, but still need to improve it since it fails with inclusion of name tags. Also indirectly found a means to extract real names of participants :)
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 34: 4/16/18
+
+**Today's Progress**: Started generalizing for discussion pages
+ 
+**Thoughts:** Not much done today...Got all links to scrap in a list to see patterns in urls. Also began creating loop to go through all links.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
