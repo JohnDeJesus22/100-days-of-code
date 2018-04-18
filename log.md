@@ -283,3 +283,12 @@
 **Thoughts:** Not much done today...Got all links to scrap in a list to see patterns in urls. Also began creating loop to go through all links.
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 35: 4/17/18
+
+**Today's Progress**: Looped through all viz_threads
+ 
+**Thoughts:** Made loop with enumerate to get through all viz threads. Attempted to clean links and get real names of participates but will have to try different approaches.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+[Full Data Scrap Attempt](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/datadotworld_full_scrap_attempt.csv)
