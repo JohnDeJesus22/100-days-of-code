@@ -292,3 +292,12 @@
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
 [Full Data Scrap Attempt](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/datadotworld_full_scrap_attempt.csv)
+
+### Day 36: 4/18/18
+
+**Today's Progress**: Got real names of participants and created draft viz of participant activity
+ 
+**Thoughts:** Got real names of participants. Created quick draft of @tableau viz to show participant activity with data. 
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+[Full Data Scrap Attempt](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/datadotworld_full_scrap_attempt.csv)
