@@ -301,3 +301,11 @@
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
 [Full Data Scrap Attempt](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/datadotworld_full_scrap_attempt.csv)
+
+### Day 37: 4/19/18
+
+**Today's Progress**: Profile pics and adjusting links
+ 
+**Thoughts:** Explore the patterns in html to get to the correct links for the viz submissions since they are not consistent. Started looking at Flask tutorials for future use.
+
+**Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
