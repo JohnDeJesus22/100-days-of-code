@@ -306,6 +306,6 @@
 
 **Today's Progress**: Profile pics and adjusting links
  
-**Thoughts:** Explore the patterns in html to get to the correct links for the viz submissions since they are not consistent. Started looking at Flask tutorials for future use.
+**Thoughts:** Explore the patterns in html to get to the correct links for the viz submissions since they are not consistent. Started looking again at Flask tutorials and practiced a bit for future use.
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
