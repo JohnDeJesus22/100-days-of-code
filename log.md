@@ -309,3 +309,11 @@
 **Thoughts:** Explore the patterns in html to get to the correct links for the viz submissions since they are not consistent. Started looking again at Flask tutorials and practiced a bit for future use.
 
 **Link to work:** [Selenium Testing](https://github.com/JohnDeJesus22/WebScrapingApplication/blob/master/SeleniumTest.py)
+
+### Day 38: 4/20/18
+
+**Today's Progress**: Cleaning Data for new ML model
+ 
+**Thoughts:** Taking a short break from selenium to explore my ML model for the twitter bot. Started by cleaning the data from my two CSVs.
+
+**Link to work:** [New_ML_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLTweetTest2.py)
