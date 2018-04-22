@@ -317,3 +317,11 @@
 **Thoughts:** Taking a short break from selenium to explore my ML model for the twitter bot. Started by cleaning the data from my two CSVs.
 
 **Link to work:** [New_ML_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLTweetTest2.py)
+
+### Day 39: 4/21/18
+
+**Today's Progress**: Completed Swapping data from csvs
+ 
+**Thoughts:** Completed swapping data from CSVs and created new copies. Tomorrow another round of building the retweet classifier for the twitter bot!
+
+**Link to work:** [New_ML_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLTweetTest2.py)
