@@ -325,3 +325,11 @@
 **Thoughts:** Completed swapping data from CSVs and created new copies. Tomorrow another round of building the retweet classifier for the twitter bot!
 
 **Link to work:** [New_ML_Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLTweetTest2.py)
+
+### Day 40: 4/22/18
+
+**Today's Progress**: Started building new tweet classifier model
+ 
+**Thoughts:** 2nd attempt at building twitter bot classifier. Small improvement after a little extra feature engineering combined with tfidf vectorizer and multinomial naive bayes.
+
+**Link to work:** [Model Version 2 Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLModelTest2.py)
