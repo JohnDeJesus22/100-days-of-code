@@ -336,8 +336,16 @@
 
 ### Day 41: 4/23/18
 
-**Today's Progress**: improved variance with FE
+**Today's Progress**: Improved variance with FE
  
 **Thoughts:** Feature engineered text data more and did different prep to get the same accuracy but lowered variance. Need to look into other models and research more on text feature engineering, or maybe I just need more data?
 
 **Link to work:** [Model Version 2 Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLModelTest2.py)
+
+### Day 42: 4/24/18
+
+**Today's Progress**: Pulled and Cleaned Tweet Data
+ 
+**Thoughts:** Didn't have much time today. Pulled and cleaned tweet data to add to ml twitter bot model.
+
+**Link to work:** None
