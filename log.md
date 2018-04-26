@@ -349,3 +349,11 @@
 **Thoughts:** Didn't have much time today. Pulled and cleaned tweet data to add to ml twitter bot model.
 
 **Link to work:** None
+
+### Day 43: 4/25/18
+
+**Today's Progress**: Improved accuracy and variance
+ 
+**Thoughts:** More data and some parameter tuning helped! Got mean accuracy to 77% and variance to .01! Will tune a bit more once I get even quantity reps of both classes. Very eager to try out with bot.
+
+**Link to work:** [Model Version 2 Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLModelTest2.py)
