@@ -357,3 +357,11 @@
 **Thoughts:** More data and some parameter tuning helped! Got mean accuracy to 77% and variance to .01! Will tune a bit more once I get even quantity reps of both classes. Very eager to try out with bot.
 
 **Link to work:** [Model Version 2 Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLModelTest2.py)
+
+### Day 44: 4/26/18
+
+**Today's Progress**: Organized bot files and refined some code.
+ 
+**Thoughts:** Created folder for twitter bot files and started to refine the code in them. Perhaps I should start making classes?
+
+**Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
