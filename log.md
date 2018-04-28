@@ -365,3 +365,11 @@
 **Thoughts:** Created folder for twitter bot files and started to refine the code in them. Perhaps I should start making classes?
 
 **Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
+
+### Day 45: 4/27/18
+
+**Today's Progress**: Built first 2 classes
+ 
+**Thoughts:** Built a test Dog class and began building a test first for a class that will be used for the twitter bot.
+
+**Link to work:** [Class Building Practice](https://github.com/JohnDeJesus22/Experiments/blob/master/Class_Practice.py)
