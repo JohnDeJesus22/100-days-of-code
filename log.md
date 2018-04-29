@@ -373,3 +373,12 @@
 **Thoughts:** Built a test Dog class and began building a test first for a class that will be used for the twitter bot.
 
 **Link to work:** [Class Building Practice](https://github.com/JohnDeJesus22/Experiments/blob/master/Class_Practice.py)
+
+### Day 46: 4/28/18
+
+**Today's Progress**: Fixed class definition and code refinement
+ 
+**Thoughts:** Refined some of the code in the ML and Retriever Scripts. Fixed a definition in my class related to the tweet corpus construction.
+
+**Link to work:** [Class Building Practice](https://github.com/JohnDeJesus22/Experiments/blob/master/Class_Practice.py)
+
