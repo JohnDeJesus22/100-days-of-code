@@ -382,3 +382,10 @@
 
 **Link to work:** [Class Building Practice](https://github.com/JohnDeJesus22/Experiments/blob/master/Class_Practice.py)
 
+### Day 47: 4/29/18
+
+**Today's Progress**: Continued Refining code
+ 
+**Thoughts:** Refined code so most of the functions for the Tweets pipeline are under a single class. Began refining code in bot script to reflect this. Just having trouble importing credentials with the class function...
+
+**Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
