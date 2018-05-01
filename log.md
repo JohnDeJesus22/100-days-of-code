@@ -389,3 +389,11 @@
 **Thoughts:** Refined code so most of the functions for the Tweets pipeline are under a single class. Began refining code in bot script to reflect this. Just having trouble importing credentials with the class function...
 
 **Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
+
+### Day 48: 4/30/18
+
+**Today's Progress**: Refined ML Model code
+ 
+**Thoughts:** Almost finished refining ML model code to a single class. Still need to fix the last bit but I am unfortunately having eye problems...
+
+**Link to work:** [Nearly Refined ML Model](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/Twitter_Bot/RefinedMLModel.py)
