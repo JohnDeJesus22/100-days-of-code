@@ -397,3 +397,11 @@
 **Thoughts:** Almost finished refining ML model code to a single class. Still need to fix the last bit but I am unfortunately having eye problems...
 
 **Link to work:** [Nearly Refined ML Model](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/Twitter_Bot/RefinedMLModel.py)
+
+### Day 49: 5/1/18
+
+**Today's Progress**: Tested model against new tweets
+ 
+**Thoughts:** Attempted to test model against new tweets without class structures. Need to figure out why the creation of that data frame only includes 46 of the 345 tweets pulled with tweepy
+
+**Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
