@@ -405,3 +405,11 @@
 **Thoughts:** Attempted to test model against new tweets without class structures. Need to figure out why the creation of that data frame only includes 46 of the 345 tweets pulled with tweepy
 
 **Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
+
+### Day 50: 5/2/18
+
+**Today's Progress**: Need to balance training data
+ 
+**Thoughts:** Fixed issue from yesterday. As I suspected I will need to balance my training data since there are too many false positives. Collected more data today for that.
+
+**Link to work:** [Twitter Bot Folder](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/tree/master/Twitter_Bot)
