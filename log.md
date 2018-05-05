@@ -428,4 +428,4 @@
  
 **Thoughts:** Pulled false tweet data and appended it to the false tweets csv. Also learned more about Big O notation and Dash.
 
-**Link to work:** [False Tweets Collecting Script] (https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/Data%20Mining%20and%20Cleaning/FalseTweetCollecting.py)
+**Link to work:** [False Tweets Collecting Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/Data%20Mining%20and%20Cleaning/FalseTweetCollecting.py)
