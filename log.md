@@ -421,3 +421,11 @@
 **Thoughts:** Began pulling more false tweets from twitter users that product them.
 
 **Link to work:** None
+
+### Day 52: 5/4/18
+
+**Today's Progress**: Pulled false tweet data
+ 
+**Thoughts:** Pulled false tweet data and appended it to the false tweets csv. Also learned more about Big O notation and Dash.
+
+**Link to work:** [False Tweets Collecting Script] (https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/Data%20Mining%20and%20Cleaning/FalseTweetCollecting.py)
