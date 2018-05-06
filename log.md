@@ -12,8 +12,6 @@
 
 **Link to work:** [Data Wrangling Script](https://github.com/JohnDeJesus22/Personality-Text-Classifier/blob/master/PTCDataWrangling.py)
 
-
-
 ### Day 2: 3/15/18 
 
 **Today's Progress**: Began Exploratory Data Analysis on melted dataset
@@ -429,3 +427,11 @@
 **Thoughts:** Pulled false tweet data and appended it to the false tweets csv. Also learned more about Big O notation and Dash.
 
 **Link to work:** [False Tweets Collecting Script](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/Data%20Mining%20and%20Cleaning/FalseTweetCollecting.py)
+
+### Day 53: 5/5/18
+
+**Today's Progress**: First Retweet with ML model
+ 
+**Thoughts:** Did first retweets for #makeovermonday bot with ML model! First retweets were with 4 tweets with 75% accurracy. Still need to tune but it feels great that this finally happened.
+
+**Link to work:** [Model Version 2 Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLModelTest2.py)
