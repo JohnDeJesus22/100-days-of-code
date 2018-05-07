@@ -435,3 +435,11 @@
 **Thoughts:** Did first retweets for #makeovermonday bot with ML model! First retweets were with 4 tweets with 75% accurracy. Still need to tune but it feels great that this finally happened.
 
 **Link to work:** [Model Version 2 Testing](https://github.com/JohnDeJesus22/-MakeoverMonday-Collaborative-Project/blob/master/MLModelTest2.py)
+
+### Day 54: 5/6/18
+
+**Today's Progress**: Repo for Regents Dashboards
+ 
+**Thoughts:** Setup repo for Tableau Dashboards for NY math regents cluster analysis. Data prepped with pandas. Going to redo these using the Dash Python Library.
+
+**Link to work:** [Regents Cluster Analysis Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards)
