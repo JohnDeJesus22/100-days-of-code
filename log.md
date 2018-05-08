@@ -443,3 +443,11 @@
 **Thoughts:** Setup repo for Tableau Dashboards for NY math regents cluster analysis. Data prepped with pandas. Going to redo these using the Dash Python Library.
 
 **Link to work:** [Regents Cluster Analysis Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards)
+
+### Day 55: 5/7/18
+
+**Today's Progress**: Created First Personal Dash App
+ 
+**Thoughts:** Created first dash app displaying question frequency of geometry #regents by cluster! Btw switching to this due to a presentation I will be giving.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
