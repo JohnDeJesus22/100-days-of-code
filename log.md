@@ -451,3 +451,11 @@
 **Thoughts:** Created first dash app displaying question frequency of geometry #regents by cluster! Btw switching to this due to a presentation I will be giving.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 56: 5/8/18
+
+**Today's Progress**: Styled Dash App
+ 
+**Thoughts:** Did some styling to the dashboard. Need to figure out why the background color on the bar chart isn't changing...
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
