@@ -459,3 +459,11 @@
 **Thoughts:** Did some styling to the dashboard. Need to figure out why the background color on the bar chart isn't changing...
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 57: 5/9/18
+
+**Today's Progress**: Fixed Style issue and working on line chart
+ 
+**Thoughts:** Fixed Style issue due to a silly error on my part. Testing out a line chart. Still need to work on the proper filtering.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
