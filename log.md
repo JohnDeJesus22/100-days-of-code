@@ -472,6 +472,6 @@
 
 **Today's Progress**: Fixed Line Chart to display correctly
  
-**Thoughts:** Fixed Line Chart for geometry standard so that it displays properly. Although I feel there is probably a better way to do this. Looking at more Dash tutorials for interactivity.
+**Thoughts:** Fixed Line Chart for geometry standard so it displays like Tableau version. Although I feel there is probably a better way to do this. Looking at more Dash tutorials for interactivity.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
