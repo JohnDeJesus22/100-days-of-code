@@ -467,3 +467,11 @@
 **Thoughts:** Fixed Style issue due to a silly error on my part. Testing out a line chart. Still need to work on the proper filtering.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 58: 5/10/18
+
+**Today's Progress**: Fixed Line Chart to display correctly
+ 
+**Thoughts:** Fixed Line Chart for geometry standard so that it displays properly. Although I feel there is probably a better way to do this. Looking at more Dash tutorials for interactivity.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
