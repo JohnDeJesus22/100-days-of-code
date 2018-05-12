@@ -475,3 +475,11 @@
 **Thoughts:** Fixed Line Chart for geometry standard so it displays like Tableau version. Although I feel there is probably a better way to do this. Looking at more Dash tutorials for interactivity.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 59: 5/11/18
+
+**Today's Progress**: Tested Markdown and Dropdown feature
+ 
+**Thoughts:** Experimented with the Markdown and Dropdown interactive feature. Not sure why the markdown is not doing what it is suppose to. Will try it out again later.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
