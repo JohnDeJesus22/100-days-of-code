@@ -483,3 +483,11 @@
 **Thoughts:** Experimented with the Markdown and Dropdown interactive feature. Not sure why the markdown is not doing what it is suppose to. Will try it out again later.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 60: 5/12/18
+
+**Today's Progress**: Created Stacked Bar for Clusters
+ 
+**Thoughts:** Built Stacked Bar Chart for clusters to show breakdown of #geometry #regents by cluster and question type with the help of #pandas. Getting closer.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
