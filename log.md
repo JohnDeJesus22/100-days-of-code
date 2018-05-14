@@ -491,3 +491,11 @@
 **Thoughts:** Built Stacked Bar Chart for clusters to show breakdown of #geometry #regents by cluster and question type with the help of #pandas. Getting closer.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 61: 5/13/18
+
+**Today's Progress**: Update chart with dropdown
+ 
+**Thoughts:** Got simple bar of #geometry #standards frequency to update with dropdown but just not formatted the way I wanted. Need to figure out why change in format causes issues.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
