@@ -499,3 +499,11 @@
 **Thoughts:** Got simple bar of #geometry #standards frequency to update with dropdown but just not formatted the way I wanted. Need to figure out why change in format causes issues.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 62: 5/14/18
+
+**Today's Progress**: Update line chart with dropdown
+ 
+**Thoughts:** Provided a dropdown for the #geometry #regents cluster line chart. Getting better at this! Continued with more Dash Tutorials.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
