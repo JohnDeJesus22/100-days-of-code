@@ -507,3 +507,11 @@
 **Thoughts:** Provided a dropdown for the #geometry #regents cluster line chart. Getting better at this! Continued with more Dash Tutorials.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 63: 5/15/18
+
+**Today's Progress**: Refined code and added summative bar view
+ 
+**Thoughts:** Refined code so almost all filtering for dropdown is in callback functions. Created a summative view for simple bar chart in dropdown options. 
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
