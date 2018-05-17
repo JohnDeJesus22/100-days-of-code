@@ -515,3 +515,11 @@
 **Thoughts:** Refined code so almost all filtering for dropdown is in callback functions. Created a summative view for simple bar chart in dropdown options. 
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 64: 5/16/18
+
+**Today's Progress**: Refined code and improved filters
+ 
+**Thoughts:** Continued to refine code. Changed stacked bar to a nested bar chart. Created filter for that bar chart and gave descriptive labels for line chart filter.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
