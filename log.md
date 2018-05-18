@@ -523,3 +523,11 @@
 **Thoughts:** Continued to refine code. Changed stacked bar to a nested bar chart. Created filter for that bar chart and gave descriptive labels for line chart filter.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 65: 5/17/18
+
+**Today's Progress**: Experimented with percentages and watched more dash tutorials
+ 
+**Thoughts:** Continued learning with my dash tutorials. Trying to change simple bar chart to a bar chart of percentages of each cluster in the whole exam.
+
+**Link to work:** None
