@@ -531,3 +531,11 @@
 **Thoughts:** Continued learning with my dash tutorials. Trying to change simple bar chart to a bar chart of percentages of each cluster in the whole exam.
 
 **Link to work:** None
+
+### Day 66: 5/18/18
+
+**Today's Progress**: Created percentage bar chart
+ 
+**Thoughts:** Changed simple count bar chart to a percentage version with filters by #regents date. Now I got all three of my main tableau charts in one #dash layout. Next is fine tuning :)
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
