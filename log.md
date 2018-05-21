@@ -547,3 +547,11 @@
 **Thoughts:** Fixed error in nested bar so counts are correct, fixed percentage on simple bar y-axis, and improved hovertext on line chart.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 68: 5/20/18
+
+**Today's Progress**: Changed line chart dropdown to accept multiple entries
+ 
+**Thoughts:** Altered line chart dropdown to select multiple cluster inputs. Will definitely check out the correlation between these time series. There are some interesting pairings here.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
