@@ -555,3 +555,13 @@
 **Thoughts:** Altered line chart dropdown to select multiple cluster inputs. Will definitely check out the correlation between these time series. There are some interesting pairings here.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+
+
+### Day 69: 5/21/18
+
+**Today's Progress**: Touched up details and some functionality
+ 
+**Thoughts:** Refined code a little and cleaned up minor details such as titles and some dropdown functionality.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
