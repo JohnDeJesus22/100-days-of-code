@@ -564,7 +564,7 @@
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
 
-### Day 69: 5/21/18
+### Day 70: 5/22/18
 
 **Today's Progress**: Cleaned time data from csv
  
