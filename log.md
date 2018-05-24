@@ -571,3 +571,11 @@
 **Thoughts:** Didn't get much time today. Got to clean up time code so it will hopefully give a cleaner display for the dropdown menus.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 71: 5/23/18
+
+**Today's Progress**: Fixed display of exam dates in dropdown
+ 
+**Thoughts:** Fixed display of exam dates in dropdown to just month and year. The way I changed the code messed up the line chart but I fixed it.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
