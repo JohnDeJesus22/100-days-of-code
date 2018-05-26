@@ -587,3 +587,12 @@
 **Thoughts:** Not much done since I needed to work on my presentation for an ignite talk. Did a bit of code refining.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 73: 5/25/18
+
+**Today's Progress**: Started adding correlation functionality
+ 
+**Thoughts:** Attempted to add a correlation function using pandas corr method on time series of two clusters. Just need to fix the code to display it.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
