@@ -596,3 +596,10 @@
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
 
+### Day 74: 5/26/18
+
+**Today's Progress**: Added borders and correlation function
+ 
+**Thoughts:** Created borders btw charts and created correlation function for pairs of cluster timeseries. So far best correlation is about -0.5. Majority of correlations checked are unfortunately closer to 0.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
