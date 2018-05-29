@@ -611,3 +611,11 @@
 **Thoughts:** Continued practice from Dash Tutorials on my course. Also created a repository for a future pdf editor for my wife's job.
 
 **Link to work:** None
+
+### Day 76: 5/28/18
+
+**Today's Progress**: Setup Postgres Connections and experimented with pyscopg2 and sqlalchemy
+ 
+**Thoughts:** Setup Postgres and pyscopg2 connection (finally lol). Then experimented with connections to postgres through pyscopg2 and sqlalchemy with a simple select * query.
+
+**Link to work:** [Postgres Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/sqlpythonConnectionTest.py)
