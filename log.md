@@ -619,3 +619,11 @@
 **Thoughts:** Setup Postgres and pyscopg2 connection (finally lol). Then experimented with connections to postgres through pyscopg2 and sqlalchemy with a simple select * query.
 
 **Link to work:** [Postgres Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/sqlpythonConnectionTest.py)
+
+### Day 77: 5/29/18
+
+**Today's Progress**: Query practice
+ 
+**Thoughts:** Practiced some simple queries using sqlalchemy.
+
+**Link to work:** [Postgres Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/sqlpythonConnectionTest.py)
