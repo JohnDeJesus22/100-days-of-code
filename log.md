@@ -627,3 +627,12 @@
 **Thoughts:** Practiced some simple queries using sqlalchemy.
 
 **Link to work:** [Postgres Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/sqlpythonConnectionTest.py)
+
+### Day 78: 5/30/18
+
+**Today's Progress**: Setting up for updatable bar chart
+ 
+**Thoughts:** Returning to the dash app.Laying groundwork for a bar chart that will update based on the hover data from the line chart. 
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
