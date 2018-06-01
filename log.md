@@ -636,3 +636,10 @@
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
 
+### Day 79: 5/31/18
+
+**Today's Progress**: Explored pyPDF2 module
+ 
+**Thoughts:** Started experimenting with the pyPDF2 module. Admittedly didn't have much time since I am going to be giving my first time tomorrow.
+
+**Link to work:** [PDF Exploration](https://github.com/JohnDeJesus22/pdfEditor/blob/master/pdfeditor.py)
