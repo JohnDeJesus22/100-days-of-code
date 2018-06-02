@@ -643,3 +643,11 @@
 **Thoughts:** Started experimenting with the pyPDF2 module. Admittedly didn't have much time since I am going to be giving my first time tomorrow.
 
 **Link to work:** [PDF Exploration](https://github.com/JohnDeJesus22/pdfEditor/blob/master/pdfeditor.py)
+
+### Day 80: 6/1/18
+
+**Today's Progress**: Experimented with gensim word2vec
+ 
+**Thoughts:** Experimented with gensim word2vec. Now I need to find some text data to apply some clustering algoritms to with this
+
+**Link to work:**[Word2Vec Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/word2vecTest.py)
