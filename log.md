@@ -651,3 +651,11 @@
 **Thoughts:** Experimented with gensim word2vec. Now I need to find some text data to apply some clustering algoritms to with this
 
 **Link to work:**[Word2Vec Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/word2vecTest.py)
+
+### Day 81: 6/2/18
+
+**Today's Progress**: Visualized words from word2vec test
+ 
+**Thoughts:** Created visualizations of test sentences using in word2vec experiment in matplotlib and plotly. Plotly again making it easy to display the words associated to each point.
+
+**Link to work:**[Word2Vec Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/word2vecTest.py)
