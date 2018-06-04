@@ -659,3 +659,11 @@
 **Thoughts:** Created visualizations of test sentences using in word2vec experiment in matplotlib and plotly. Plotly again making it easy to display the words associated to each point.
 
 **Link to work:**[Word2Vec Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/word2vecTest.py)
+
+### Day 82: 6/3/18
+
+**Today's Progress**: Kmeans with matplotlib
+ 
+**Thoughts:** A little under the weather but couldn't resist doing kmeans clustering with the test sentences in matplotlib! See pics below. 
+
+**Link to work:**[Word2Vec Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/word2vecTest.py)
