@@ -667,3 +667,11 @@
 **Thoughts:** A little under the weather but couldn't resist doing kmeans clustering with the test sentences in matplotlib! See pics below. 
 
 **Link to work:**[Word2Vec Experiments](https://github.com/JohnDeJesus22/Experiments/blob/master/word2vecTest.py)
+
+### Day 83: 6/4/18
+
+**Today's Progress**: Using Ann_visualizer
+ 
+**Thoughts:** Tried out the ANN_visualizer library after seeing an article on it from a #linkedin connection. Tried it on my old classifier but would not display the output layer.
+
+**Link to work:**[MLB Classifier](https://github.com/JohnDeJesus22/MLB-Baseball-Player-Classifier/blob/master/MLBPlayerClassifier.py)
