@@ -675,3 +675,11 @@
 **Thoughts:** Tried out the ANN_visualizer library after seeing an article on it from a #linkedin connection. Tried it on my old classifier but would not display the output layer.
 
 **Link to work:**[MLB Classifier](https://github.com/JohnDeJesus22/MLB-Baseball-Player-Classifier/blob/master/MLBPlayerClassifier.py)
+
+### Day 84: 6/5/18
+
+**Today's Progress**: Started doing interview questions
+ 
+**Thoughts:** Started doing interview practice questions off a udemy course. Challenging but the fun kind of challenging!
+
+**Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
