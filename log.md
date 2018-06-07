@@ -683,3 +683,11 @@
 **Thoughts:** Started doing interview practice questions off a udemy course. Challenging but the fun kind of challenging!
 
 **Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
+
+### Day 85: 6/6/18
+
+**Today's Progress**: Did two more interview questions on my own
+ 
+**Thoughts:** Tackled two more interview questions that I did solo!
+
+**Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
