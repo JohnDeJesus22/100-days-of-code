@@ -691,3 +691,11 @@
 **Thoughts:** Tackled two more interview questions that I did solo!
 
 **Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
+
+### Day 86: 6/7/18
+
+**Today's Progress**: Setup markdown text and import
+
+**Thoughts:** Going back to the #dash app. Created seperate file for markdown text and setup import for that file.
+
+**Link to work:** [Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards)
