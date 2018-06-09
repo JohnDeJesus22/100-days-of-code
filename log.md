@@ -699,3 +699,11 @@
 **Thoughts:** Going back to the #dash app. Created seperate file for markdown text and setup import for that file.
 
 **Link to work:** [Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards)
+
+### Day 87: 6/8/18
+
+**Today's Progress**: Incorporated Markdown and fixed alignment issue
+
+**Thoughts:** Incorporated Markdown into main dash app script file. Fixed an alignment issue of two charts.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
