@@ -707,3 +707,11 @@
 **Thoughts:** Incorporated Markdown into main dash app script file. Fixed an alignment issue of two charts.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 88: 6/9/18
+
+**Today's Progress**: Work on filter function for line and bar chart
+
+**Thoughts:** Continued working on the function of bar chart that will filter based on interaction with time series. This may lead to smoothing out the filtering in my other functions.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
