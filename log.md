@@ -715,3 +715,11 @@
 **Thoughts:** Continued working on the function of bar chart that will filter based on interaction with time series. This may lead to smoothing out the filtering in my other functions.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 89: 6/10/18
+
+**Today's Progress**: WApply CSS to improve layout
+
+**Thoughts:** Under the weather again but still at it! Learned some more CSS to improve the layout. Specifically used CSS to align chart instructions with respective dropdowns.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
