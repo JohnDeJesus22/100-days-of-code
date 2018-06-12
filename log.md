@@ -718,8 +718,16 @@
 
 ### Day 89: 6/10/18
 
-**Today's Progress**: WApply CSS to improve layout
+**Today's Progress**: Apply CSS to improve layout
 
 **Thoughts:** Under the weather again but still at it! Learned some more CSS to improve the layout. Specifically used CSS to align chart instructions with respective dropdowns.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 90: 6/11/18
+
+**Today's Progress**: Continued building interactivity for time series
+
+**Thoughts:** Continued building function for interactivity on time series chart. Still needs some work...
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
