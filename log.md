@@ -731,3 +731,12 @@
 **Thoughts:** Continued building function for interactivity on time series chart. Still needs some work...
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 91: 6/12/18
+
+**Today's Progress**: Did recursion interview questions
+ 
+**Thoughts:** Solved some coding problems on recursion and tested one function for the first time. The idea of recursion is just like how I teach it to my students in math class.
+
+**Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
+
