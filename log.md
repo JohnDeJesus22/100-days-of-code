@@ -740,3 +740,10 @@
 
 **Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
 
+### Day 92: 6/13/18
+
+**Today's Progress**: Did more recursion interview questions
+ 
+**Thoughts:** Did more recursion questions. Learned about the itertools python package and some programming with memoization.
+
+**Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
