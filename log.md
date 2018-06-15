@@ -747,3 +747,11 @@
 **Thoughts:** Did more recursion questions. Learned about the itertools python package and some programming with memoization.
 
 **Link to work:**[Interview Question Solutions](https://github.com/JohnDeJesus22/Experiments/blob/master/InterviewQuestionSolutions.py)
+
+### Day 93: 6/14/18
+
+**Today's Progress**: Continued learning memoization
+ 
+**Thoughts:** Continued to study memoization by studying resources provide by my course and playing with code solutions to course problems.
+
+**Link to work:** None
