@@ -755,3 +755,11 @@
 **Thoughts:** Continued to study memoization by studying resources provide by my course and playing with code solutions to course problems.
 
 **Link to work:** None
+
+### Day 94: 6/15/18
+
+**Today's Progress**: Improved time series bar chart
+
+**Thoughts:** Improve the bar chart associated with cluster time series chart so it provides cum_sum of cluster types by question type. Still need to improve the click data interaction.
+
+**Link to work:** [Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards)
