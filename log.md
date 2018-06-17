@@ -763,3 +763,11 @@
 **Thoughts:** Improve the bar chart associated with cluster time series chart so it provides cum_sum of cluster types by question type. Still need to improve the click data interaction.
 
 **Link to work:** [Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards)
+
+### Day 95: 6/16/18
+
+**Today's Progress**: Applied login and adjusted chart design
+
+**Thoughts:** Applied authorization to my dash app using the dash_auth library. Also made a same design adjustment on previously mentioned bar chart.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
