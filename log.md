@@ -771,3 +771,11 @@
 **Thoughts:** Applied authorization to my dash app using the dash_auth library. Also made a same design adjustment on previously mentioned bar chart.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 96: 6/17/18
+
+**Today's Progress**: Fixed clickData interaction
+
+**Thoughts:** Created a function to check the clickData json to fix the issue with my chart interactions. Found the issue and fixed the interaction. Now just have to adjust it when multiple time-series are displayed.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
