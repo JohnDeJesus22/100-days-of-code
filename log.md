@@ -779,3 +779,11 @@
 **Thoughts:** Created a function to check the clickData json to fix the issue with my chart interactions. Found the issue and fixed the interaction. Now just have to adjust it when multiple time-series are displayed.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 97: 6/18/18
+
+**Today's Progress**: Added Missing cluster functionality
+
+**Thoughts:** Added missing cluster functionality to the bar charts to display clusters not assessed on #regents. Refreshed on #CSS to create a box around the message.
+
+**Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
