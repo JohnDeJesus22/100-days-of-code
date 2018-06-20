@@ -787,3 +787,11 @@
 **Thoughts:** Added missing cluster functionality to the bar charts to display clusters not assessed on #regents. Refreshed on #CSS to create a box around the message.
 
 **Link to work:** [First Dash App](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/blob/master/DashTest.py)
+
+### Day 98: 6/19/18
+
+**Today's Progress**: Foundation for Web App and improvements
+
+**Thoughts:** Refined some code, improved the bar associated time-series chart, and layed foundation files and file structure for app to go multipage thanks to awesome #plotly #dash documentation.
+
+**Link to work:** [Regents App Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/tree/master)
