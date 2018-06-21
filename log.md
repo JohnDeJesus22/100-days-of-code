@@ -795,3 +795,11 @@
 **Thoughts:** Refined some code, improved the bar associated time-series chart, and layed foundation files and file structure for app to go multipage thanks to awesome #plotly #dash documentation.
 
 **Link to work:** [Regents App Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/tree/master)
+
+### Day 99: 6/20/18
+
+**Today's Progress**: Prepping Alg1 and 2 Dashboards
+
+**Thoughts:** Prepping scripts for the Alg 1 and 2 Regents Dashboards. Still need to prep some of the data and refine the code with functions and a class.
+
+**Link to work:** [Regents App Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/tree/master)
