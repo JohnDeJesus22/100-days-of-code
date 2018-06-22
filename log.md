@@ -803,3 +803,11 @@
 **Thoughts:** Prepping scripts for the Alg 1 and 2 Regents Dashboards. Still need to prep some of the data and refine the code with functions and a class.
 
 **Link to work:** [Regents App Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/tree/master)
+
+### Day 100: 6/21/18
+
+**Today's Progress**: Created File for functions and tested them
+
+**Thoughts:** Created separate file for functions and created test version of original app with refactored code. Looks so much neater. Still some more steps until deployment. Man this is fun!
+
+**Link to work:** [Regents App Repo](https://github.com/JohnDeJesus22/NY-Regents-Cluster-Dashboards/tree/master)
